@@ -8,6 +8,6 @@ Ich möchte mein Wissen in C# verbessern und vertiefen indem ich mer Projekte Pr
 
 
 # Arbeitspakete für 24.10.2023
-- [ ] Im Moudl 319 den auftrag 6913 A1-4 Lösen
-- [ ] Im Modul 319 Die vertiefungsaufgaben lösen
-- [ ] Quiz Duell, mit Fragen und mehreren antworten zum auswählen + Punkte zähler.
+- [ ] Im Moudl 319 den Auftrag 6913 A1-4 Lösen
+- [ ] Im Modul 319 Die vertiefungsaufgaben LA2703 lösen
+- [ ] Quiz Duell programmieren, mit Fragen und mehreren Antworten zum auswählen + Punkte zähler.
