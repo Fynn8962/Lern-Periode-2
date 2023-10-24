@@ -1,4 +1,3 @@
-# Lern-Periode-2
 
 # Grob-Planung
 Fynn Huber
@@ -6,6 +5,7 @@ Fynn Huber
 
 ## Leit-Satz
 Ich möchte mein Wissen in C# verbessern und vertiefen indem ich mer Projekte Programmiere, einfache wie auch komplexere (18 Wörter)
+
 
 # Arbeitspakete für 24.10.2023
 - [ ] Im Moudl 319 den auftrag 6913 A1-4 Lösen
