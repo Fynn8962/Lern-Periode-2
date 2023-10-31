@@ -16,6 +16,6 @@ Ich habe den Auftrag im M319 zu Funktionen bearbeitet und fertigestellt. Ich hab
 
 # Arbeitspakete für 31.10.2023
 - [ ] Quiz-Duell weiter Programmieren. Bei neuen Ideen diese Umsetzen.
-- [ ] Mithilfe eines Tutorials en Snake spiel Programmieren (nicht nur in der Konsole Programme erstellen sondern auch mit Benutzeroberfläche)
+- [ ] Benutzeroberfläche mit Name eingabe Feld und Enter Taste um seinen Namen "einzuloggen"
 - [x] Für Modul M319 E-Portfolios erstellen.
 - [ ] Allfällige Aufträge die ich von M319  nicht fertig bearbeiten konnte fertig bearbeiten.
