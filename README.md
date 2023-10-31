@@ -16,6 +16,14 @@ Ich habe den Auftrag im M319 zu Funktionen bearbeitet und fertigestellt. Ich hab
 
 # Arbeitspakete für 31.10.2023
 - [ ] Quiz-Duell weiter Programmieren. Bei neuen Ideen diese Umsetzen.
-- [ ] Benutzeroberfläche mit Name eingabe Feld und Enter Taste um seinen Namen "einzuloggen"
+- [x] Benutzeroberfläche mit Name eingabe Feld und Enter Taste um seinen Namen "einzuloggen"
 - [x] Für Modul M319 E-Portfolios erstellen.
 - [ ] Allfällige Aufträge die ich von M319  nicht fertig bearbeiten konnte fertig bearbeiten.
+
+Zuerst erledigte ich ein paar E-portfoilios für M319 was keine grossen Probleme bereitete. Dann befasste ich mich mit Windows Forms um eine Benutzeroberfläche zu gestalten für das Quiz-Duell Programm. Ich habe dann aber schnell gemerkt das ich zuerst etwas einfacheres machen sollte und hab mich für eine anmeldeoberfläche entschieden. Ich informierte mich über die Funktionen und konnte am Schluss ein einfaches (nicht besonders schönes) Anmeldefenster Programmieren mit Eingabefeld, Buttons zum fortfahren und einer schlussauflistung der eingegebenen Informationen. Ich werde mich jetzt zuhause noch ein bischen mehr mit Windows Forms auseinander setzen damit ich dann meine Idee die ich eigneltich heute umsetzen wollte nächstes mal machen kann.
+
+# Arbeitspakete für 07.11.2023
+- [ ] Quiz-Duell / Wahr oder Falsch spiel vervollständigen
+- [ ] Taschenrechner mit Windows Forms
+- [ ] M319 E-Portfolios 1 seite abschliessen wenn möglich. (Zeile 1; 2; 4; 5; 7; 10; 11; 12) 
+
