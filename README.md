@@ -20,10 +20,16 @@ Ich habe den Auftrag im M319 zu Funktionen bearbeitet und fertigestellt. Ich hab
 - [x] Für Modul M319 E-Portfolios erstellen.
 - [ ] Allfällige Aufträge die ich von M319  nicht fertig bearbeiten konnte fertig bearbeiten.
 
-Zuerst erledigte ich ein paar E-portfoilios für M319 was keine grossen Probleme bereitete. Dann befasste ich mich mit Windows Forms um eine Benutzeroberfläche zu gestalten für das Quiz-Duell Programm. Ich habe dann aber schnell gemerkt das ich zuerst etwas einfacheres machen sollte und hab mich für eine anmeldeoberfläche entschieden. Ich informierte mich über die Funktionen und konnte am Schluss ein einfaches (nicht besonders schönes) Anmeldefenster Programmieren mit Eingabefeld, Buttons zum fortfahren und einer schlussauflistung der eingegebenen Informationen. Ich werde mich jetzt zuhause noch ein bischen mehr mit Windows Forms auseinander setzen damit ich dann meine Idee die ich eigneltich heute umsetzen wollte nächstes mal machen kann.
+Zuerst erledigte ich ein paar E-portfoilios für M319 was keine grossen Probleme bereitete. Dann befasste ich mich mit Windows Forms um eine Benutzeroberfläche zu gestalten für das Quiz-Duell Programm. Ich habe dann aber schnell gemerkt das ich zuerst etwas einfacheres machen sollte und hab mich für eine anmeldeoberfläche entschieden. Ich informierte mich über die Funktionen und konnte am Schluss ein einfaches (nicht besonders schönes) Anmeldefenster Programmieren mit Eingabefeld, Buttons zum fortfahren und einer schlussauflistung der eingegebenen Informationen. Ich werde mich jetzt zuhause noch ein bischen mehr mit Windows Forms auseinander setzen damit ich dann meine Idee die ich eigneltich heute umsetzen wollte nächstes mal machen kann. (104 Wörter)
 
 # Arbeitspakete für 07.11.2023
 - [ ] Quiz-Duell / Wahr oder Falsch spiel vervollständigen
 - [ ] Taschenrechner mit Windows Forms
-- [ ] M319 E-Portfolios 1 seite abschliessen wenn möglich. (Zeile 1; 2; 4; 5; 7; 10; 11; 12) 
+- [x] M319 E-Portfolios 1 seite abschliessen wenn möglich. (Zeile 1; 2; 4; 5; 7; 10; 11; 12)
 
+Ich habe heute bemerk, dass das E-Portfolio für M319 das wir am 09.11.23 um 23:59 abgeben müssen doch etwas aufweniger ist als gedacht. Deshalb habe ich heutedie ganze Zeit genutzt um an meinen portfolios zu arbeiten und bin auch gut voran gekommen. Ich hoffe ich werde ich nächster Zeit mehr Zeit für grössere Programmierprojekte habe. Für nächste Woche will ich wirklich mal daran halten und weiter mit meinen kleinen Projekt fortfahren, damit ich auch meine Fähigkeiten im praktischen Programmieren etwas fördere. (79 Wörter)
+
+# Arbeitspakete 14.11.2023
+- [ ] Wahr oder Falsch spiel mit Benutzeroberfläche fortsetzen
+- [ ] anschliessend Taschenrechner mit Windows Forms erstellen
+- [ ] Kleine Projekte aus den Vertiefungsaufgaben LA_319_2703 machen.
