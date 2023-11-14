@@ -37,6 +37,6 @@ Ich habe heute bemerk, dass das E-Portfolio für M319 das wir am 09.11.23 um 23:
 Zuerst habe ich ein an den Vertiefungsaufträgen von Modul 319 gearbeitet, ich hatte ein bischen Probleme aber konnte alles erledigen was ich wollte. Danach habe ich an meinem true or false game weitergearbeitet, bzw es nochmal neu angefangen nach dem Input über WinForm, da ich vorher paar Sachen nicht richtig erstellt habe und die übersicht verloren habe. Jetzt habe ich erneut das overlay gestaltet und die einzelnen Buttons definiert. Als nächstes mache ich mich an den Code und ein system, um genügend Fragen zur verfügung zu haben, damit das spiel auch mehrmals gespielt werden kann. (107 Wörter)
 
 # Arbeitspakete 21.11.2023
-- [ ] true or false game Code erstellen
+- [ ] true or false game Code fortführen
 - [ ] Simples Scheren, Stein, Papier game programmieren
 - [ ] Taschenrecher mit WinForm
