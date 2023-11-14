@@ -30,6 +30,13 @@ Zuerst erledigte ich ein paar E-portfoilios für M319 was keine grossen Probleme
 Ich habe heute bemerk, dass das E-Portfolio für M319 das wir am 09.11.23 um 23:59 abgeben müssen doch etwas aufweniger ist als gedacht. Deshalb habe ich heutedie ganze Zeit genutzt um an meinen portfolios zu arbeiten und bin auch gut voran gekommen. Ich hoffe ich werde ich nächster Zeit mehr Zeit für grössere Programmierprojekte habe. Für nächste Woche will ich wirklich mal daran halten und weiter mit meinen kleinen Projekt fortfahren, damit ich auch meine Fähigkeiten im praktischen Programmieren etwas fördere. (79 Wörter)
 
 # Arbeitspakete 14.11.2023
-- [ ] Wahr oder Falsch spiel mit Benutzeroberfläche fortsetzen
+- [x] Wahr oder Falsch spiel mit Benutzeroberfläche fortsetzen
 - [ ] anschliessend Taschenrechner mit Windows Forms erstellen
-- [ ] Kleine Projekte aus den Vertiefungsaufgaben LA_319_2703 machen.
+- [x] Kleine Projekte aus den Vertiefungsaufgaben LA_319_2703 machen.
+
+Zuerst habe ich ein an den Vertiefungsaufträgen von Modul 319 gearbeitet, ich hatte ein bischen Probleme aber konnte alles erledigen was ich wollte. Danach habe ich an meinem true or false game weitergearbeitet, bzw es nochmal neu angefangen nach dem Input über WinForm, da ich vorher paar Sachen nicht richtig erstellt habe und die übersicht verloren habe. Jetzt habe ich erneut das overlay gestaltet und die einzelnen Buttons definiert. Als nächstes mache ich mich an den Code und ein system, um genügend Fragen zur verfügung zu haben, damit das spiel auch mehrmals gespielt werden kann. (107 Wörter)
+
+# Arbeitspakete 21.11.2023
+- [ ] true or false game Code erstellen
+- [ ] Simples Scheren, Stein, Papier game programmieren
+- [ ] Taschenrecher mit WinForm
