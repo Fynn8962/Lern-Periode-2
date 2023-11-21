@@ -37,6 +37,14 @@ Ich habe heute bemerk, dass das E-Portfolio für M319 das wir am 09.11.23 um 23:
 Zuerst habe ich ein an den Vertiefungsaufträgen von Modul 319 gearbeitet, ich hatte ein bischen Probleme aber konnte alles erledigen was ich wollte. Danach habe ich an meinem true or false game weitergearbeitet, bzw es nochmal neu angefangen nach dem Input über WinForm, da ich vorher paar Sachen nicht richtig erstellt habe und die übersicht verloren habe. Jetzt habe ich erneut das overlay gestaltet und die einzelnen Buttons definiert. Als nächstes mache ich mich an den Code und ein system, um genügend Fragen zur verfügung zu haben, damit das spiel auch mehrmals gespielt werden kann. (107 Wörter)
 
 # Arbeitspakete 21.11.2023
-- [ ] true or false game Code fortführen
+- [x] true or false game Code fortführen
 - [ ] Simples Scheren, Stein, Papier game programmieren
 - [ ] Taschenrecher mit WinForm
+
+Am montag Abend habe ich am Programmierprojekt gearbeiet welches wir in der Lektion bei Herrn Schmid bekommen haben. Ich habe Testfälle zu unserem Programm das wir erstellen müssen geschrieben und dazu noch die Dokumentation erweitert. Am dienstag Morgen habe ich an meinen True or False game weiter gearbeitet. Ich habe versucht die ausgabe einer zufälligen richtigen oder falschen Frage zu Programmieren was mir am schluss auch gelang. Leider ist mir aber aufgefallen dass es viel zu wenig randomized ist. Somit habe ich nach einem besseren weg gesucht und dann nochmal alles abgeändert. Jetzt fühlt es sich schon viel zufälliger an als vorhin. Der nächste Schritt wäre die funktionen dass man auch die true oder false Taste drücken kann und das Programm dann auch erkennt ob die entscheidung richig oder falsch war.
+
+# Arbeitspakete 28.11.2023
+- [ ] true or false game spielbar machen (nur spielbar, nicht fertig)
+- [ ] Programmierprojekt zur ausrechnung von Kennzahlen vortsetzen
+- [ ] Simples Scheren, Stein, Papier game programmieren
+  
