@@ -41,10 +41,16 @@ Zuerst habe ich ein an den Vertiefungsaufträgen von Modul 319 gearbeitet, ich h
 - [ ] Simples Scheren, Stein, Papier game programmieren
 - [ ] Taschenrecher mit WinForm
 
-Am montag Abend habe ich am Programmierprojekt gearbeiet welches wir in der Lektion bei Herrn Schmid bekommen haben. Ich habe Testfälle zu unserem Programm das wir erstellen müssen geschrieben und dazu noch die Dokumentation erweitert. Am dienstag Morgen habe ich an meinen True or False game weiter gearbeitet. Ich habe versucht die ausgabe einer zufälligen richtigen oder falschen Frage zu Programmieren was mir am schluss auch gelang. Leider ist mir aber aufgefallen dass es viel zu wenig randomized ist. Somit habe ich nach einem besseren weg gesucht und dann nochmal alles abgeändert. Jetzt fühlt es sich schon viel zufälliger an als vorhin. Der nächste Schritt wäre die funktionen dass man auch die true oder false Taste drücken kann und das Programm dann auch erkennt ob die entscheidung richig oder falsch war.
+Am montag Abend habe ich am Programmierprojekt gearbeiet welches wir in der Lektion bei Herrn Schmid bekommen haben. Ich habe Testfälle zu unserem Programm das wir erstellen müssen geschrieben und dazu noch die Dokumentation erweitert. Am dienstag Morgen habe ich an meinen True or False game weiter gearbeitet. Ich habe versucht die ausgabe einer zufälligen richtigen oder falschen Frage zu Programmieren was mir am schluss auch gelang. Leider ist mir aber aufgefallen dass es viel zu wenig randomized ist. Somit habe ich nach einem besseren weg gesucht und dann nochmal alles abgeändert. Jetzt fühlt es sich schon viel zufälliger an als vorhin. Der nächste Schritt wäre die funktionen dass man auch die true oder false Taste drücken kann und das Programm dann auch erkennt ob die entscheidung richig oder falsch war. (112 Wörter)
 
 # Arbeitspakete 28.11.2023
-- [ ] true or false game spielbar machen (nur spielbar, nicht fertig)
+- [x] true or false game spielbar machen (nur spielbar, nicht fertig)
 - [ ] Programmierprojekt zur ausrechnung von Kennzahlen vortsetzen
 - [ ] Simples Scheren, Stein, Papier game programmieren
-  
+
+Als erstes habe ich Hausaufgaben im Modul162 abgeschlossen, was aber sehr schnell und einfach ging. Danach habe ich mein Programmierprojekt fortgesetzt, anfangs lief alles wie ich es wollte und ich konnte gut Fortschritt machen. ALs ich dann zu der Tastenüberprüfung kahm, ob der Benutzer die richtige Taste gedrückt hat, erschienen die ersten Schwierigkeiten. Ich Probierte eine ewigkeit hin und her, bei einigen Lösungsansetzen funktionierte es nur haln, bei anderen gar nicht. Ich habe dann mit ChatGPT nach einer lösung gesucht, doch da ich dass was "er" mir als Lösung bereitgestellt hat nicht verstanden habe, habe ich es auch nicht verwendet. Ich versuche nun andere Lösungen mithilfe von Googlen zu finden. (1o6 Wörter)
+
+# Arbeitspakete 05.12.2023
+- [ ] True or False game abschliessen
+- [ ] Am Programmierprojekt für die Kanti Lehrpersonen arbeiten (*1)
+- [ ] *1
