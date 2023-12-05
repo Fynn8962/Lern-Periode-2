@@ -53,7 +53,7 @@ Als erstes habe ich Hausaufgaben im Modul162 abgeschlossen, was aber sehr schnel
 # Arbeitspakete 05.12.2023
 - [ ] True or False game abschliessen
 - [x] Am Programmierprojekt für die Kanti Lehrpersonen arbeiten (*1)
-- [ ] *1
+- [x] *1
 
 Wir haben das Programmierprojekt fertiggestellt. Es gab keine Probleme da wir letztel mal schon alle Formeln und Funktionen fertiggestellt haben. Wir mussten nur noch die Benutzeroberfläche erstellen mithilfe von Winform und die einzelnen Formeln für die Kennzahlen in unserem Kennzahlenanalyse Programm einfügen. Da wir für alles schon Funktionen vorbereitet hatten mussten wir nur noch die Daten einfügen. jetzt müssen wir nur noch Testfälle durchgehen um allfällige Probleme im Programm zu erkennen. (  Wörter)
 
