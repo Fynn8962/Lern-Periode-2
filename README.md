@@ -62,7 +62,9 @@ Wir haben das Programmierprojekt fertiggestellt. Es gab keine Probleme da wir le
 - [ ] Programmierkalender Anfangen (AoC)
 - [ ] AoC fortfahren
 
-Ich habe das True or False game beendet. Es ist komplett funktionsfähig. Was ich jetzt noch machen könnte sind mehr Fragen einfügen und mich um ein schöneres Design kümmern. Da es mir aber mehr uf den Code an sich ging finde ich das nich so wichtig
+Ich habe mein True or false game Spielbar gemacht. Es fehlen noch paar Funktionen damit das Spiel von jedem gespielt werden könnte ohne fehler. Was ich jetzt auch  noch machen könnte sind mehr Fragen einfügen und mich um ein schöneres Design kümmern. Da es mir aber mehr uf den Code an sich ging finde ich das nicht so wichtig. Ich bin zufrieden und werde es wenn möglich später nochmal überarbeiten damit es ohne Fehler oder Bugs spielbar ist
 
-# Arbeitspakete 18.05.2023
+# Arbeitspakete 19.05.2023
 - [ ] AoC Anfangen
+
+Ich habe mein true or false game nochmal überarbeitet das es an einem guten Stand ist. Ich habe gewisse Bugs entfernt und noch eine neue Funktion mit einer Score anzeige eingefügt...
