@@ -58,6 +58,11 @@ Als erstes habe ich Hausaufgaben im Modul162 abgeschlossen, was aber sehr schnel
 Wir haben das Programmierprojekt fertiggestellt. Es gab keine Probleme da wir letztel mal schon alle Formeln und Funktionen fertiggestellt haben. Wir mussten nur noch die Benutzeroberfläche erstellen mithilfe von Winform und die einzelnen Formeln für die Kennzahlen in unserem Kennzahlenanalyse Programm einfügen. Da wir für alles schon Funktionen vorbereitet hatten mussten wir nur noch die Daten einfügen. jetzt müssen wir nur noch Testfälle durchgehen um allfällige Probleme im Programm zu erkennen. (  Wörter)
 
 # Arbeitspakete 12.05.2023
-- [ ] True or false Game
+- [x] True or false Game
 - [ ] Programmierkalender Anfangen (AoC)
 - [ ] AoC fortfahren
+
+Ich habe das True or False game beendet. Es ist komplett funktionsfähig. Was ich jetzt noch machen könnte sind mehr Fragen einfügen und mich um ein schöneres Design kümmern. Da es mir aber mehr uf den Code an sich ging finde ich das nich so wichtig
+
+# Arbeitspakete 18.05.2023
+- [ ] AoC Anfangen
