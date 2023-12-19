@@ -68,3 +68,6 @@ Ich habe mein True or false game Spielbar gemacht. Es fehlen noch paar Funktione
 - [ ] AoC Anfangen
 
 Ich habe mein true or false game nochmal überarbeitet das es an einem guten Stand ist. Ich habe gewisse Bugs entfernt und noch eine neue Funktion mit einer Score anzeige eingefügt...
+
+# Reflexion
+Mein Fokus in dieser LP war das Programmieren mit Winforms. Leider musste ich mich Anfangs gleich um andere Dinge wie den Portfoliobeitrag für M319 kümmern was meine Ideen etwas auseinanderbrachte. Nachdem ich den Portfoliobeitrag erstellt hatte, machte ich mich erst mit Winforms bekannt und versuchte einfache Oberflächen zu Programmieren. Für mich war es anfangs schwer mit den Ganzen Funktionen umzugehen, doch mit der Zeit habe ich es immer mehr verstanden und es hat immer mehr Spass gemacht. Ich konnte insgesamt 2 Projekte machen, das eine war zwar ein Programmierprojekt das wir als Aufgabe bekommen haben, da wir das aber auch in Winforms gecodet haben machte es trotzdem Spass. Abschliessend kann ich sagen das ich dieser LP mein Fokus sehr auf Winforms war, auch wenn man das Programm später nicht mehr benutzen wird, war es mal eine Abwechslung etwas ausserhalb einer Konsole zu Programmieren. Ich der nächsten LP würde ich gerne mal andere Sprachen ein bisschen ausprobieren und vielleicht ein richtiges Game erstellen.
